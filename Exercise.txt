@@ -1,0 +1,5 @@
+1. The terminal is a program that allows you to access all of the files on your computer. it is able to create, delete, or edit files and folders. The terminal allows you to enter commands to execute an action.
+
+2. Git allows you to manage changes and keep track of your source code history. GitHub is a cloud-based program that allows you to manage Git repositories. You can use Git without GitHub but you can't use GitHub without Git.
+
+3. Because it allows you to easily work on group projects from anywhere.
